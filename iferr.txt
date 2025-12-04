@@ -1,0 +1,52 @@
+     // char file[20];
+          // strcpy(file,argv[i]);
+          // file[(length-4)]='\0';
+
+     //      if(length>=4 && strcmp(fileName+(length-4),".txt")==0){
+             
+     //           // printf("INFO: Validated the file %s as .txt\n",file);
+
+     //           //check if the .txt file exist or not
+     //           if(isFileExist(fileName)==SUCCESS){
+     //                // printf("INFO:Validated %s is present \n",fileName);
+                    
+     //                //check if the .txt file contain any data 
+     //                if(isFileHaveData(fileName)==SUCCESS){
+     //                     // printf("INFO:Validated %s is not empty  \n",fileName);
+     //                     //check if is it a duplicate ;if then ignore
+     //                     if(isFileDuplicate(fileName,head)==FAILURE){
+     //                          // printf("INFO: Validated  file dosen't have any copy \n");
+     //                          if(addToFlist(fileName,&head)==SUCCESS){
+     //                               printf("\033[1;32mSucessfully added to list : %s\n\033[0m",fileName);
+     //                               printf("\n");
+          
+     //                                count++;
+     //                          }
+                               
+     //                     }
+     //                     else{
+     //                          printf("\033[1;31mERROR:The file %s is repeated \n\033[0m",fileName);
+     //                          printf("so we are not adding to list\n");
+     //                          printf("\n");
+     //                     }
+                          
+     //                 }else{
+     //                     printf("\033[1;31mERROR:The file %s dosen't have data\n\033[0m",fileName);
+     //                      printf("so we are not adding to list\n");
+     //                      printf("\n");
+     //                 }}else{
+     //                    printf("\033[1;31mERROR:The file %s is not present \n\033[0m",fileName);
+     //                     printf("so we are not adding to list\n");
+     //                     printf("\n");
+     //                 }}else{
+     //                   printf("\033[1;31mERROR:The file %s is not a text file\n\033[0m",fileName);
+     //                          printf("so we are not adding to list\n");
+     //                          printf("\n");
+     //                 }}
+
+
+     // if(count==0){
+     //      printf("ERR: No usable .txt file exists..!\n");
+     //      return FAILURE;
+     //      }
+   // int length=strlen(fileName);
